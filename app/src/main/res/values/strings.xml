@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">PicTxtSearch</string>
+    <string name="about_title">About</string>
+    <string name="about_version_format">Version %1$s</string>
+    <string name="author">Author</string>
+    <string name="check_updates">Check for updates</string>
+    <string name="update_latest_message">You are on the latest version.</string>
+    <string name="update_failed_title">Update check failed</string>
+    <string name="update_available_title">Version %1$s available</string>
+    <string name="update_download_message">PicTxtSearch.apk will be downloaded using your default browser.</string>
+    <string name="go_download">Download</string>
+    <string name="got_it">OK</string>
+    <string name="cannot_open_browser">Could not open browser</string>
+    <string name="support_author">Support author</string>
+    <string name="support_message">If you like this app, consider supporting it:)</string>
+    <string name="donation_qr_description">Donation QR code</string>
+    <string name="update_error_http">HTTP %1$d</string>
+    <string name="update_error_no_version">No version found in the latest release.</string>
+    <string name="update_error_network">Network error</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="language">Language</string>
+    <string name="language_follow_system">Follow system</string>
+    <string name="language_chinese">简体中文</string>
+    <string name="language_english">English</string>
+    <string name="appearance">Appearance</string>
+    <string name="theme_mode">Theme</string>
+    <string name="follow_system">Follow system</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="dynamic_color">Dynamic color</string>
+    <string name="android_12_plus">Requires Android 12+</string>
+    <string name="theme_color">Theme color</string>
+    <string name="theme_color_description">Theme color %1$s</string>
+    <string name="about_app">About app</string>
+    <string name="highlight">Highlight</string>
+    <string name="highlight_color">Highlight color</string>
+    <string name="highlight_color_description">Highlight color %1$s</string>
+    <string name="opacity">Opacity</string>
+    <string name="preview_sample">Sample</string>
+    <string name="preview_keyword">Keyword</string>
+    <string name="preview_text">text</string>
+    <string name="reset_settings">Reset to defaults</string>
+    <string name="reset_settings_title">Reset settings?</string>
+    <string name="reset_settings_message">Theme, appearance, dynamic color, and highlight style will be reset. Recognition records will not be deleted.</string>
+    <string name="reset">Reset</string>
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+    <string name="search_page_title">Search - %1$s</string>
+    <string name="image_fallback">Image</string>
+    <string name="discard_image_description">Discard current image</string>
+    <string name="settings_description">Settings</string>
+    <string name="take_photo">Take photo</string>
+    <string name="import_image">Import image</string>
+    <string name="select">Select</string>
+    <string name="selected_count">Selected %1$d</string>
+    <string name="select_all">Select all</string>
+    <string name="deselect_all">Deselect all</string>
+    <string name="invert_selection">Invert</string>
+    <string name="delete_selected">Delete selected records</string>
+    <string name="records">Records</string>
+    <string name="delete_record_title">Delete record?</string>
+    <string name="delete_records_message">Delete %1$d record(s), including images and OCR results.</string>
+    <string name="rename_record">Rename record</string>
+    <string name="title_label">Title</string>
+    <string name="untitled_record">Untitled record</string>
+    <string name="rename_record_description">Rename record</string>
+    <string name="delete_record_description">Delete record</string>
+
+    <string name="search">Search</string>
+    <string name="search_in_progress">Recognizing…</string>
+    <string name="clear_search">Clear</string>
+    <string name="invalid_regex">Invalid regular expression</string>
+    <string name="search_options">Search options</string>
+    <string name="regex">Regular expression</string>
+    <string name="plain_text">Plain text</string>
+    <string name="case_sensitive">Match case</string>
+    <string name="save_highlight_image">Save highlighted image</string>
+    <string name="found_count">Found %1$d</string>
+    <string name="match_index">%1$d/%2$d</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="ocr_result">OCR result</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+    <string name="copied">Copied</string>
+    <string name="copy_all">Copy all</string>
+    <string name="copy_selected">Copy selection</string>
+    <string name="recognizing">Recognizing…</string>
+    <string name="storage_permission_required">Storage permission is required to save</string>
+    <string name="no_text_recognized">No text recognized</string>
+    <string name="ocr_failed">Recognition failed</string>
+    <string name="image_read_failed">Could not read image</string>
+    <string name="record_save_failed">Could not save record</string>
+    <string name="record_read_failed">Could not load record</string>
+    <string name="record_deleted">Deleted</string>
+    <string name="saved">Saved</string>
+    <string name="save_failed">Save failed</string>
+    <string name="original_size">Original size</string>
+    <string name="zoom_format">Zoom %1$sx</string>
+    <string name="image_description">Image</string>
+
+    <string name="camera_permission_title">Camera permission required</string>
+    <string name="camera_permission_short">Camera permission</string>
+    <string name="camera_permission_reason">Taking photos requires camera access.</string>
+    <string name="grant_camera_permission">Grant camera permission</string>
+    <string name="open_system_settings">Open system settings</string>
+    <string name="open_system_settings_authorize">Authorize in system settings</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get started</string>
+    <string name="camera_import_instead">Import from gallery instead</string>
+    <string name="camera_start_failed">Camera failed to start: %1$s</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="camera_not_ready">Camera is not ready, try again.</string>
+    <string name="capture_failed">Capture failed: %1$s</string>
+    <string name="try_again">Try again</string>
+    <string name="close_camera">Close camera</string>
+    <string name="turn_off_flash">Turn off flash</string>
+    <string name="turn_on_flash">Turn on flash</string>
+    <string name="import_from_gallery">Import from gallery</string>
+
+    <string-array name="theme_color_names">
+        <item>Classic purple</item>
+        <item>Sky blue</item>
+        <item>Teal</item>
+        <item>Forest green</item>
+        <item>Amber</item>
+        <item>Vermilion</item>
+        <item>Peach pink</item>
+        <item>Blue gray</item>
+    </string-array>
+    <string-array name="highlight_color_names">
+        <item>Amber</item>
+        <item>Coral</item>
+        <item>Vermilion</item>
+        <item>Pink</item>
+        <item>Green</item>
+        <item>Cyan</item>
+        <item>Sky blue</item>
+        <item>Violet</item>
+    </string-array>
+</resources>

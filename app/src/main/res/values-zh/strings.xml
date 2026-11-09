@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">PicTxtSearch</string>
+    <string name="about_title">关于</string>
+    <string name="about_version_format">版本 %1$s</string>
+    <string name="author">作者</string>
+    <string name="check_updates">检查软件更新</string>
+    <string name="update_latest_message">当前已是最新版本。</string>
+    <string name="update_failed_title">检查更新失败</string>
+    <string name="update_available_title">发现新版本 %1$s</string>
+    <string name="update_download_message">将使用默认浏览器下载 PicTxtSearch.apk。</string>
+    <string name="go_download">前往下载</string>
+    <string name="got_it">知道了</string>
+    <string name="cannot_open_browser">无法打开浏览器</string>
+    <string name="support_author">支持作者</string>
+    <string name="support_message">如果你喜欢这个应用，可以支持一下:)</string>
+    <string name="donation_qr_description">打赏二维码</string>
+    <string name="update_error_http">HTTP %1$d</string>
+    <string name="update_error_no_version">最新 release 中没有版本号。</string>
+    <string name="update_error_network">网络错误</string>
+
+    <string name="settings_title">设置</string>
+    <string name="language">语言</string>
+    <string name="language_follow_system">跟随系统</string>
+    <string name="language_chinese">简体中文</string>
+    <string name="language_english">English</string>
+    <string name="appearance">外观</string>
+    <string name="theme_mode">深浅色</string>
+    <string name="follow_system">跟随系统</string>
+    <string name="light">浅色</string>
+    <string name="dark">深色</string>
+    <string name="dynamic_color">动态取色</string>
+    <string name="android_12_plus">需要 Android 12+</string>
+    <string name="theme_color">主题色</string>
+    <string name="theme_color_description">主题色 %1$s</string>
+    <string name="about_app">关于应用</string>
+    <string name="highlight">高亮</string>
+    <string name="highlight_color">高亮颜色</string>
+    <string name="highlight_color_description">高亮色 %1$s</string>
+    <string name="opacity">不透明度</string>
+    <string name="preview_sample">示例</string>
+    <string name="preview_keyword">关键词</string>
+    <string name="preview_text">文字</string>
+    <string name="reset_settings">恢复默认设置</string>
+    <string name="reset_settings_title">恢复默认设置？</string>
+    <string name="reset_settings_message">主题色、深浅色、动态取色和高亮样式将恢复默认值，识别记录不会被删除。</string>
+    <string name="reset">恢复</string>
+    <string name="back">返回</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+
+    <string name="search_page_title">搜索 - %1$s</string>
+    <string name="image_fallback">图片</string>
+    <string name="discard_image_description">放弃当前图片</string>
+    <string name="settings_description">设置</string>
+    <string name="take_photo">拍照</string>
+    <string name="import_image">导入图片</string>
+    <string name="select">选择</string>
+    <string name="selected_count">已选 %1$d</string>
+    <string name="select_all">全选</string>
+    <string name="deselect_all">取消全选</string>
+    <string name="invert_selection">反选</string>
+    <string name="delete_selected">删除选中记录</string>
+    <string name="records">记录</string>
+    <string name="delete_record_title">删除记录？</string>
+    <string name="delete_records_message">将删除 %1$d 条记录及其图片和 OCR 结果。</string>
+    <string name="rename_record">重命名记录</string>
+    <string name="title_label">标题</string>
+    <string name="untitled_record">未命名记录</string>
+    <string name="rename_record_description">重命名记录</string>
+    <string name="delete_record_description">删除记录</string>
+
+    <string name="search">搜索</string>
+    <string name="search_in_progress">识别中…</string>
+    <string name="clear_search">清空</string>
+    <string name="invalid_regex">正则表达式无效</string>
+    <string name="search_options">搜索选项</string>
+    <string name="regex">正则表达式</string>
+    <string name="plain_text">搜索纯文本</string>
+    <string name="case_sensitive">区分大小写</string>
+    <string name="save_highlight_image">保存高亮图片</string>
+    <string name="found_count">找到 %1$d 处</string>
+    <string name="match_index">%1$d/%2$d</string>
+    <string name="previous">上一个</string>
+    <string name="next">下一个</string>
+    <string name="ocr_result">OCR 结果</string>
+    <string name="collapse">收起</string>
+    <string name="expand">展开</string>
+    <string name="copied">已复制</string>
+    <string name="copy_all">复制全部</string>
+    <string name="copy_selected">复制选中</string>
+    <string name="recognizing">识别中…</string>
+    <string name="storage_permission_required">需要存储权限才能保存</string>
+    <string name="no_text_recognized">未识别到文字</string>
+    <string name="ocr_failed">识别失败</string>
+    <string name="image_read_failed">无法读取图片</string>
+    <string name="record_save_failed">记录保存失败</string>
+    <string name="record_read_failed">记录读取失败</string>
+    <string name="record_deleted">已删除</string>
+    <string name="saved">已保存</string>
+    <string name="save_failed">保存失败</string>
+    <string name="original_size">原始大小</string>
+    <string name="zoom_format">缩放 %1$s 倍</string>
+    <string name="image_description">图片</string>
+
+    <string name="camera_permission_title">需要相机权限</string>
+    <string name="camera_permission_short">相机权限</string>
+    <string name="camera_permission_reason">拍摄图片需要使用相机权限。</string>
+    <string name="grant_camera_permission">授予相机权限</string>
+    <string name="open_system_settings">前往系统设置</string>
+    <string name="open_system_settings_authorize">前往系统设置授权</string>
+    <string name="skip">跳过</string>
+    <string name="get_started">开始使用</string>
+    <string name="camera_import_instead">改为从相册导入</string>
+    <string name="camera_start_failed">相机启动失败：%1$s</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="camera_not_ready">相机尚未就绪，请稍后再试</string>
+    <string name="capture_failed">拍照失败：%1$s</string>
+    <string name="try_again">请重试</string>
+    <string name="close_camera">关闭相机</string>
+    <string name="turn_off_flash">关闭闪光灯</string>
+    <string name="turn_on_flash">开启闪光灯</string>
+    <string name="import_from_gallery">从相册导入</string>
+
+    <string-array name="theme_color_names">
+        <item>经典紫</item>
+        <item>天空蓝</item>
+        <item>青碧</item>
+        <item>森林绿</item>
+        <item>琥珀橙</item>
+        <item>朱砂红</item>
+        <item>桃粉</item>
+        <item>蓝灰</item>
+    </string-array>
+    <string-array name="highlight_color_names">
+        <item>琥珀</item>
+        <item>珊瑚</item>
+        <item>朱红</item>
+        <item>桃粉</item>
+        <item>翠绿</item>
+        <item>青色</item>
+        <item>天蓝</item>
+        <item>紫罗兰</item>
+    </string-array>
+</resources>
