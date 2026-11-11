@@ -17,12 +17,12 @@ PicTxtSearch is an Android app for searching text in images: it recognizes the t
 
 ## Screenshots
 
-| | |
-|---|---|
-| ![Search screen example 1](images/1.jpg) | ![Settings screen detail](images/2.jpg) |
-| Search screen example 1 | Settings screen detail |
-| ![Search screen example 2](images/3.jpg) | ![Home screen](images/4.jpg) |
-| Search screen example 2 | Home screen |
+<p align="center">
+  <img src="images/1.jpg" width="23%" />
+  <img src="images/2.jpg" width="23%" />
+  <img src="images/3.jpg" width="23%" />
+  <img src="images/4.jpg" width="23%" />
+</p>
 
 ## Download
 

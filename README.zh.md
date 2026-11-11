@@ -17,12 +17,12 @@ PicTxtSearch 是一款 Android 图片文字搜索工具：识别图片中的文�
 
 ## 截图
 
-| | |
-|---|---|
-| ![搜索界面示例 1](images/1.jpg) | ![设置界面局部](images/2.jpg) |
-| 搜索界面示例 1 | 设置界面局部 |
-| ![搜索界面示例 2](images/3.jpg) | ![主页面](images/4.jpg) |
-| 搜索界面示例 2 | 主页面 |
+<p align="center">
+  <img src="images/1.jpg" width="23%" />
+  <img src="images/2.jpg" width="23%" />
+  <img src="images/3.jpg" width="23%" />
+  <img src="images/4.jpg" width="23%" />
+</p>
 
 ## 下载
 
